@@ -1,20 +1,4 @@
 <section id="about" class="flex flex-col md:flex-row items-center justify-between p-8 bg-[#0f0f0f] text-white">
-  <!-- Text Section -->
-  <div class="md:w-1/2 space-y-4">
-    <h2 class="text-3xl font-bold">👋 About Me</h2>
-    <p class="text-lg leading-relaxed">
-      Hi! I’m <span class="text-blue-400 font-semibold">Ron Francisco</span> — a curious and creative 
-      <span class="text-pink-400">Computer Science student</span> who enjoys building ideas that blend
-      technology, design, and real-world purpose.
-    </p>
-    <p class="text-lg leading-relaxed">
-      I’m passionate about exploring UI/UX, front-end magic, and meaningful tech solutions.
-      Whether it’s crafting smooth user experiences or experimenting with new tools, I’m always learning something new.
-    </p>
-    <p class="text-lg italic text-gray-300">
-      Fun fact: I sometimes debug faster when I listen to hype music 🎧.
-    </p>
-  </div>
 
   <!-- GIF Section -->
   <div class="md:w-1/2 flex justify-center mt-6 md:mt-0">
