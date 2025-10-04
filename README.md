@@ -22,7 +22,6 @@
       → I love combining tech and creativity — whether that’s designing, writing, or working on random side projects for fun.<br>
       Also, coffee powers most of my commits ☕💡</p>
     </div>
-    <!-- Right GIF -->
     <div style="flex: 0 0 250px; margin-left: 20px; text-align: center;">
       <img src="https://media.tenor.com/SpW0v1yRwM4AAAAM/goat-gloat.gif" 
            alt="Goat Gloat GIF"
