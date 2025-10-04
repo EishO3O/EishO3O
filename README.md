@@ -23,7 +23,6 @@
       → I love combining tech and creativity — whether that’s designing, writing, or working on random side projects for fun.  
       Also, coffee powers most of my commits ☕💡</p>
     </div>
-    <!-- Right GIF -->
     <div style="flex: 0 0 250px; margin-left: 20px; text-align: center;">
       <div class="tenor-gif-embed" data-postid="13702224" data-share-method="host" data-aspect-ratio="1" data-width="100%">
         <a href="https://tenor.com/view/goat-gloat-funny-animals-gif-13702224">Goat Gloat GIF</a> 
