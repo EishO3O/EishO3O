@@ -22,6 +22,35 @@ I love transforming ideas into interactive, user-friendly experiences — whethe
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages & Frameworks  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&logoColor=white)
+
+### 🎨 Design & Prototyping  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?logo=adobexd&logoColor=white)
+
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?logo=android-studio&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white)
+
+---
+
+
 ## 🚀 Current Projects
 Here are a few things I’m working on right now:
 
