@@ -1,24 +1,5 @@
-# 💫 About Me:
-Hey there! 👋 I'm **Eisha Janel Alva**, a BS Computer Science student passionate about building creative and meaningful tech solutions.  
-I love transforming ideas into interactive, user-friendly experiences — whether through design, data, or code. 💻✨  
-
-🔭 **Currently Working On:**  
-→ Developing personal and academic projects that blend design, AI, and mobile development.  
-
-👯 **Looking to Collaborate On:**  
-→ Open-source projects, UI/UX-driven apps, or any innovative community-based projects.  
-
-🤝 **Looking for Help With:**  
-→ Cloud deployment workflows and backend optimization for mobile apps.  
-
-🌱 **Currently Learning:**  
-→ Flutter, Firebase, and foundational machine learning concepts.  
-
-💬 **Ask Me About:**  
-→ Frontend development, UI/UX design, or building your first Flutter app!  
-
-⚡ **Fun Fact:**  
-→ I love combining tech and creativity — whether that’s designing, writing, or working on random side projects for fun. Also, coffee powers most of my commits ☕💡  
+💫 About Me
+<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;"> <div style="flex: 1; min-width: 250px;"> <p> Hey there! I’m <strong>Ron Francisco</strong> — a BS Computer Science student from the <strong>School of Computing</strong>, passionate about turning ideas into interactive digital experiences. I love exploring <strong>UI/UX design</strong>, building clean and efficient apps, and learning new tools that make development more fun. When I’m not coding, you’ll probably find me designing layouts, discovering new tech, or hyping myself up with good music 🎧. </p> <p> My current projects include: <ul> <li><a href="https://eisho3o.netlify.app/" target="_blank"><strong>My Portfolio</strong></a> – A personal showcase of my works and skills.</li> <li><a href="https://github.com/ronfrancisco24/Clairity" target="_blank"><strong>Clairity</strong></a> – A clarity-driven social platform concept.</li> <li><a href="https://github.com/Itsmeejoshiee/TrashTrackr/releases/tag/v1.0.0" target="_blank"><strong>TrashTrackr</strong></a> – An environmental tracking app promoting responsible waste management.</li> </ul> </p> </div> <div style="flex: 0 0 200px; text-align: center;"> <img src="https://i.pinimg.com/originals/11/3a/59/113a59c84c48f913b5f54707ce3b1f67.gif" alt="Funny Goat Gif" style="border-radius: 1rem; max-width: 100%; height: auto;"> </div> </div>
 
 ---
 
