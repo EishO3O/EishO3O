@@ -1,5 +1,30 @@
-💫 About Me
-<div style="display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;"> <div style="flex: 1; min-width: 250px;"> <p> Hey there! I’m <strong>Eisha Alva</strong> — a BS Computer Science student from the <strong>School of Computing</strong>, passionate about turning ideas into interactive digital experiences. I love exploring <strong>UI/UX design</strong>, building clean and efficient apps, and learning new tools that make development more fun. When I’m not coding, you’ll probably find me designing layouts, discovering new tech, or hyping myself up with good music 🎧. </p> <p> My current projects include: <ul> <li><a href="https://eisho3o.netlify.app/" target="_blank"><strong>My Portfolio</strong></a> – A personal showcase of my works and skills.</li> <li><a href="https://github.com/ronfrancisco24/Clairity" target="_blank"><strong>Clairity</strong></a> – A clarity-driven social platform concept.</li> <li><a href="https://github.com/Itsmeejoshiee/TrashTrackr/releases/tag/v1.0.0" target="_blank"><strong>TrashTrackr</strong></a> – An environmental tracking app promoting responsible waste management.</li> </ul> </p> </div> <div style="flex: 0 0 200px; text-align: center;"> <img src="https://i.pinimg.com/originals/11/3a/59/113a59c84c48f913b5f54707ce3b1f67.gif" alt="Funny Goat Gif" style="border-radius: 1rem; max-width: 100%; height: auto;"> </div> </div>
+<section id="about" class="flex flex-col md:flex-row items-center justify-between p-8 bg-[#0f0f0f] text-white">
+  <!-- Text Section -->
+  <div class="md:w-1/2 space-y-4">
+    <h2 class="text-3xl font-bold">👋 About Me</h2>
+    <p class="text-lg leading-relaxed">
+      Hi! I’m <span class="text-blue-400 font-semibold">Ron Francisco</span> — a curious and creative 
+      <span class="text-pink-400">Computer Science student</span> who enjoys building ideas that blend
+      technology, design, and real-world purpose.
+    </p>
+    <p class="text-lg leading-relaxed">
+      I’m passionate about exploring UI/UX, front-end magic, and meaningful tech solutions.
+      Whether it’s crafting smooth user experiences or experimenting with new tools, I’m always learning something new.
+    </p>
+    <p class="text-lg italic text-gray-300">
+      Fun fact: I sometimes debug faster when I listen to hype music 🎧.
+    </p>
+  </div>
+
+  <!-- GIF Section -->
+  <div class="md:w-1/2 flex justify-center mt-6 md:mt-0">
+    <img 
+      src="https://i.pinimg.com/originals/8a/3f/47/8a3f47eebde4cfccf9a217d2bb789b9a.gif" 
+      alt="Goat Coding Gif" 
+      class="rounded-2xl w-72 h-auto shadow-lg hover:scale-105 transition-transform duration-300"
+    />
+  </div>
+</section>
 
 ---
 
