@@ -25,13 +25,22 @@ I love transforming ideas into interactive, user-friendly experiences — whethe
 ## 🚀 Current Projects
 Here are a few things I’m working on right now:
 
-- 📰 **[Angelites](https://d3df048b.twrite-blog-3dcma.pages.dev/)** — A web-based platform that promotes positivity and unity through stories.  
+- 🧩 **[Portfolio Website](https://eisho3o.netlify.app/)** — My personal portfolio showcasing projects, designs, and creative works.  
+  *Built with React and Tailwind CSS, focused on clean UI and smooth interactions.*
+
+- 🌈 **[Clairity](https://github.com/ronfrancisco24/Clairity)** — A web-based platform that promotes positivity, clarity, and shared stories.  
+  *Developed with React, Tailwind CSS, and Firebase.*
+
+- 📰 **[Angelites](https://d3df048b.twrite-blog-3dcma.pages.dev/)** — A web platform fostering positivity and unity through written stories.  
   *Built with React, Tailwind CSS, and Firebase.*
 
-- 💰 **Budget Tracker App** — A Flutter-based app that helps users manage expenses and track savings using Firebase.  
-  *Focuses on user-friendly dashboards and smart financial suggestions.*
+- 🗑️ **[Trash Trackr](https://github.com/Itsmeejoshiee/TrashTrackr/releases/tag/v1.0.0)** — A smart waste management app that helps users track and manage waste disposal efficiently.  
+  *Collaborative project using Flutter and Firebase.*
 
-- 🧠 **AI Learning Projects** — Small experimental models and prototypes exploring text and image recognition tasks.  
+- 💰 **Budget Tracker App** — A Flutter-based app that helps users manage expenses and track savings using Firebase.  
+  *Focuses on user-friendly dashboards and smart financial insights.*
+
+- 🧠 **AI Learning Projects** — Small experimental models exploring text and image recognition.  
 
 ---
 
