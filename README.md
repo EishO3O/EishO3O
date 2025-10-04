@@ -8,29 +8,21 @@
   </p>
 
   <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-
-    <!-- Left Text -->
     <div style="flex: 1; min-width: 300px;">
       <p>🔭 <strong>Currently Working On:</strong><br>
       → Developing personal and academic projects that blend design, AI, and mobile development.</p>
-
       <p>👯 <strong>Looking to Collaborate On:</strong><br>
       → Open-source projects, UI/UX-driven apps, or any innovative community-based projects.</p>
-
       <p>🤝 <strong>Looking for Help With:</strong><br>
       → Cloud deployment workflows and backend optimization for mobile apps.</p>
-
       <p>🌱 <strong>Currently Learning:</strong><br>
       → Flutter, Firebase, and foundational machine learning concepts.</p>
-
       <p>💬 <strong>Ask Me About:</strong><br>
       → Frontend development, UI/UX design, or building your first Flutter app!</p>
-
       <p>⚡ <strong>Fun Fact:</strong><br>
       → I love combining tech and creativity — whether that’s designing, writing, or working on random side projects for fun.  
       Also, coffee powers most of my commits ☕💡</p>
     </div>
-
     <!-- Right GIF -->
     <div style="flex: 0 0 250px; margin-left: 20px; text-align: center;">
       <div class="tenor-gif-embed" data-postid="13702224" data-share-method="host" data-aspect-ratio="1" data-width="100%">
