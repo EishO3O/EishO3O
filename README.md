@@ -1,13 +1,14 @@
 <!-- 💫 About Me Section -->
 <div align="left">
-
+  
   <h1>💫 About Me:</h1>
+  <p>
+    Hey there! 👋 I'm <strong>Eisha Janel Alva</strong>, a BS Computer Science student passionate about building creative and meaningful tech solutions.  
+    I love transforming ideas into interactive, user-friendly experiences — whether through design, data, or code. 💻✨  
+  </p>
 
   <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-    <!-- Left Text -->
     <div style="flex: 1; min-width: 300px;">
-      <p>Hey there! 👋 I'm <strong>Eisha Janel Alva</strong>, a BS Computer Science student passionate about building creative and meaningful tech solutions.<br>
-      I love transforming ideas into interactive, user-friendly experiences — whether through design, data, or code. 💻✨</p>
       <p>🔭 <strong>Currently Working On:</strong><br>
       → Developing personal and academic projects that blend design, AI, and mobile development.</p>
       <p>👯 <strong>Looking to Collaborate On:</strong><br>
@@ -19,14 +20,17 @@
       <p>💬 <strong>Ask Me About:</strong><br>
       → Frontend development, UI/UX design, or building your first Flutter app!</p>
       <p>⚡ <strong>Fun Fact:</strong><br>
-      → I love combining tech and creativity — whether that’s designing, writing, or working on random side projects for fun.<br>
+      → I love combining tech and creativity — whether that’s designing, writing, or working on random side projects for fun.  
       Also, coffee powers most of my commits ☕💡</p>
     </div>
     <div style="flex: 0 0 250px; margin-left: 20px; text-align: center;">
-  <div class="tenor-gif-embed" data-postid="13702224" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/goat-gloat-funny-animals-gif-13702224">Goat Gloat GIF</a>from <a href="https://tenor.com/search/goat-gifs">Goat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      <img src="https://media.tenor.com/SpW0v1yRwM4AAAAC/goat-gloat.gif" 
+           alt="Goat Gloat GIF"
+           width="250" style="border-radius: 12px;">
     </div>
   </div>
 </div>
+
 
 ---
 
