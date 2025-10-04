@@ -1,14 +1,13 @@
 <!-- 💫 About Me Section -->
 <div align="left">
-  
+
   <h1>💫 About Me:</h1>
-  <p>
-    Hey there! 👋 I'm <strong>Eisha Janel Alva</strong>, a BS Computer Science student passionate about building creative and meaningful tech solutions.  
-    I love transforming ideas into interactive, user-friendly experiences — whether through design, data, or code. 💻✨  
-  </p>
 
   <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
+    <!-- Left Text -->
     <div style="flex: 1; min-width: 300px;">
+      <p>Hey there! 👋 I'm <strong>Eisha Janel Alva</strong>, a BS Computer Science student passionate about building creative and meaningful tech solutions.<br>
+      I love transforming ideas into interactive, user-friendly experiences — whether through design, data, or code. 💻✨</p>
       <p>🔭 <strong>Currently Working On:</strong><br>
       → Developing personal and academic projects that blend design, AI, and mobile development.</p>
       <p>👯 <strong>Looking to Collaborate On:</strong><br>
@@ -20,13 +19,15 @@
       <p>💬 <strong>Ask Me About:</strong><br>
       → Frontend development, UI/UX design, or building your first Flutter app!</p>
       <p>⚡ <strong>Fun Fact:</strong><br>
-      → I love combining tech and creativity — whether that’s designing, writing, or working on random side projects for fun.  
+      → I love combining tech and creativity — whether that’s designing, writing, or working on random side projects for fun.<br>
       Also, coffee powers most of my commits ☕💡</p>
     </div>
+    <!-- Right GIF -->
     <div style="flex: 0 0 250px; margin-left: 20px; text-align: center;">
       <img src="https://media.tenor.com/SpW0v1yRwM4AAAAM/goat-gloat.gif" 
            alt="Goat Gloat GIF"
-           width="250" style="border-radius: 12px;">
+           width="250"
+           style="border-radius: 12px; margin-top: 10px;">
     </div>
   </div>
 </div>
