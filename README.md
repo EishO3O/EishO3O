@@ -24,13 +24,10 @@
       Also, coffee powers most of my commits ☕💡</p>
     </div>
     <div style="flex: 0 0 250px; margin-left: 20px; text-align: center;">
-      <div class="tenor-gif-embed" data-postid="13702224" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-        <a href="https://tenor.com/view/goat-gloat-funny-animals-gif-13702224">Goat Gloat GIF</a> 
-        from <a href="https://tenor.com/search/goat-gifs">Goat GIFs</a>
-      </div> 
-      <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      <img src="https://media.tenor.com/SpW0v1yRwM4AAAAM/goat-gloat.gif" 
+           alt="Goat Gloat GIF"
+           width="250" style="border-radius: 12px;">
     </div>
-
   </div>
 </div>
 
