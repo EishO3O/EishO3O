@@ -23,7 +23,7 @@
       Also, coffee powers most of my commits ☕💡</p>
     </div>
     <div style="flex: 0 0 250px; margin-left: 20px; text-align: center;">
-      <img src="https://media.tenor.com/SpW0v1yRwM4AAAAM/goat-gloat.gif" 
+      <img src="<img src="https://i.imgur.com/xyz123.gif">
            alt="Goat Gloat GIF"
            width="250"
            style="border-radius: 12px; margin-top: 10px;">
