@@ -84,6 +84,13 @@ Outside of coding, I love expressing creativity and finding inspiration in many 
 
 ---
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EishO3O&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=EishO3O&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EishO3O&theme=dark&hide_border=false&layout=compact)
+
+---
+
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eisha-janel-alva-23b556312/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/ahsiealva)
