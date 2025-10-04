@@ -30,8 +30,6 @@
     </div>
   </div>
 </div>
-
-
 ---
 
 ## 🛠️ Tech Stack & Tools
