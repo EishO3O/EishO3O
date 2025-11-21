@@ -67,7 +67,7 @@ Here are a few things I’m working on right now:
 - 🧩 **[Portfolio Website](https://eisho3o.netlify.app/)** — My personal portfolio showcasing projects, designs, and creative works.  
   *Built with React and Tailwind CSS, focused on clean UI and smooth interactions.*
 
-- 🌈 **[Clairity](https://github.com/ronfrancisco24/Clairity)** — A app-based platform that promotes positivity, clarity, and shared stories.  
+- 🌈 **[Clairity](https://github.com/ronfrancisco24/Clairity)** — a mobile application that captures and predicts the air quality of indoor restrooms, giving valuable insights to caretakers of specific workplaces, instutitions, and companies..  
   *Developed with React, Tailwind CSS, and Firebase.*
 
 - 📰 **[Angelites](https://d3df048b.twrite-blog-3dcma.pages.dev/)** — A web platform fostering positivity and unity through written stories.  
